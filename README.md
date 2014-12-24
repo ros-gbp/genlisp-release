@@ -1,3 +1,24 @@
+## genlisp (jade) - 0.4.14-0
+
+The packages in the `genlisp` repository were released into the `jade` distro by running `/usr/bin/bloom-release -r jade -t jade genlisp` on `Wed, 24 Dec 2014 00:24:08 -0000`
+
+The `genlisp` package was released.
+
+Version of package(s) in repository `genlisp`:
+- upstream repository: git@github.com:ros/genlisp.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `None-0`
+- new version: `0.4.14-0`
+
+Versions of tools used:
+- bloom version: `0.5.16`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.11.0`
+- rosdistro version: `0.4.0`
+- vcstools version: `0.1.36`
+
+
 ## genlisp (groovy) - 0.4.14-0
 
 The packages in the `genlisp` repository were released into the `groovy` distro by running `/usr/bin/bloom-release -r groovy -t groovy genlisp` on `Tue, 19 Aug 2014 01:23:46 -0000`
