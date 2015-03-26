@@ -1,3 +1,24 @@
+## genlisp (jade) - 0.4.15-0
+
+The packages in the `genlisp` repository were released into the `jade` distro by running `/usr/bin/bloom-release -r jade -t jade genlisp` on `Thu, 26 Mar 2015 07:57:15 -0000`
+
+The `genlisp` package was released.
+
+Version of package(s) in repository `genlisp`:
+- upstream repository: git@github.com:ros/genlisp.git
+- release repository: https://github.com/ros-gbp/genlisp-release.git
+- rosdistro version: `0.4.14-0`
+- old version: `0.4.14-0`
+- new version: `0.4.15-0`
+
+Versions of tools used:
+- bloom version: `0.5.19`
+- catkin_pkg version: `0.2.7`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.1`
+- vcstools version: `0.1.36`
+
+
 ## genlisp (indigo) - 0.4.15-0
 
 The packages in the `genlisp` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -r indigo -t indigo genlisp` on `Thu, 26 Mar 2015 07:54:48 -0000`
