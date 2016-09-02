@@ -1,3 +1,26 @@
+## genlisp (kinetic) - 0.4.16-0
+
+The packages in the `genlisp` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic genlisp` on `Fri, 02 Sep 2016 18:26:36 -0000`
+
+The `genlisp` package was released.
+
+Version of package(s) in repository `genlisp`:
+
+- upstream repository: git@github.com:ros/genlisp.git
+- release repository: https://github.com/ros-gbp/genlisp-release.git
+- rosdistro version: `0.4.15-0`
+- old version: `0.4.15-0`
+- new version: `0.4.16-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.22`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.39`
+
+
 ## genlisp (kinetic) - 0.4.15-0
 
 The packages in the `genlisp` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic genlisp` on `Wed, 09 Mar 2016 18:46:17 -0000`
