@@ -1,0 +1,12 @@
+Source: ros-lunar-genlisp
+Section: misc
+Priority: extra
+Maintainer: Dirk Thomas <dthomas@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-catkin (>= 0.5.78), ros-lunar-genmsg
+Homepage: http://www.ros.org/wiki/roslisp
+Standards-Version: 3.9.2
+
+Package: ros-lunar-genlisp
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lunar-genmsg
+Description: Common-Lisp ROS message and service generators.
