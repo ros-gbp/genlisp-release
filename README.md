@@ -1,3 +1,26 @@
+## genlisp (melodic) - 0.4.16-0
+
+The packages in the `genlisp` repository were released into the `melodic` distro by running `/usr/bin/bloom-release genlisp --track melodic --rosdistro melodic --new-track` on `Sun, 28 Jan 2018 08:35:16 -0000`
+
+The `genlisp` package was released.
+
+Version of package(s) in repository `genlisp`:
+
+- upstream repository: git@github.com:ros/genlisp.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.4.16-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.2`
+- catkin_pkg version: `0.4.1`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.6`
+- vcstools version: `0.1.40`
+
+
 ## genlisp (lunar) - 0.4.16-0
 
 The packages in the `genlisp` repository were released into the `lunar` distro by running `/usr/bin/bloom-release -r lunar -t lunar genlisp` on `Tue, 21 Feb 2017 19:57:31 -0000`
