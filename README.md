@@ -1,3 +1,26 @@
+## genlisp (noetic) - 0.4.18-1
+
+The packages in the `genlisp` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic genlisp` on `Sat, 25 Jan 2020 02:05:27 -0000`
+
+The `genlisp` package was released.
+
+Version of package(s) in repository `genlisp`:
+
+- upstream repository: git@github.com:ros/genlisp.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.4.18-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.15`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## genlisp (melodic) - 0.4.16-0
 
 The packages in the `genlisp` repository were released into the `melodic` distro by running `/usr/bin/bloom-release genlisp --track melodic --rosdistro melodic --new-track` on `Sun, 28 Jan 2018 08:35:16 -0000`
